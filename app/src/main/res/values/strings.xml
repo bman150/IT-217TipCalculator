@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="enter_decimal_amount">enter decimal amount</string>
+    <string name="percent">Percent</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="apply">Apply</string>
+</resources>
